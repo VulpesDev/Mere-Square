@@ -1,0 +1,25 @@
+Prototype v0.1
+1. result if statement is true or false ///////
+2. death animation //////
+3. sounds        ///////
+5. music                 //////
+6. camera shake - shoot, damage, self damage     //////////									//////
+10. reveal the word in the end (either true or false)    ////////
+11. fastest time and score       //////////////
+
+
+Prototype v0.2
+1. Words with 3 letters
+2. Add different kind of enemies
+3. Different weapons
+4. Deactivate button when revealing answear
+5. Math questions
+6. Boss
+7. transition scene
+8. map?
+9. vfx		
+10. red color when taken damage
+    // Make bullets do damage
+    // Only stop if in the game area
+    //Maybe delete Bullets?
+11. Bullet range decrease

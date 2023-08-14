@@ -1,6 +1,8 @@
 # Mere-Square
 Puzzle game jam
 
+<img src="imgs/cTn_8W.gif" alt="Mere-Square gameplay" style="width: 55%;">
+
 # Description
   This is a 2D game that I created for <a href="https://itch.io/jam/mini-jam-71-puzzles">Mini Jam 71:Puzzles</a>  
   This was a 3day(72-hour-long) jam, where I had to create a game for scratch.  
